@@ -2,6 +2,7 @@
 title: "Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities"
 title_html: "Shared Web Experiences:<br>Barriers Common to Mobile Device Users and People with Disabilities"
 permalink: /standards/shared-experiences/
+archive: This document is archived but still relevant.
 layout: default
 footer: >
   <p>
