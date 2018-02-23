@@ -3,6 +3,12 @@ title: "Shared Web Experiences: Barriers Common to Mobile Device Users and Peopl
 title_html: "Shared Web Experiences:<br>Barriers Common to Mobile Device Users and People with Disabilities"
 permalink: /standards/shared-experiences/
 layout: default
+footer: >
+  <p>
+    <strong>Status:</strong> 
+    Updated 22 January 2013 (first published January 2008)<br>
+    Editors: Yeliz Yesilada (University of Manchester), Alan Chuter (Fundación ONCE), and Shawn Lawton Henry (W3C WAI). Developed by the Web Accessibility Initiative Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">WAI EOWG</a>) with the Mobile Web Best Practices Working Group (<a href="http://www.w3.org/2005/MWI/BPWG/">MWI BPWG</a>).
+  </p>
 ---
 
 This page describes many of the barriers that people with disabilities
