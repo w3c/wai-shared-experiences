@@ -1,7 +1,6 @@
 ---
 title: "Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities"
-permalink: /standards-guidelines/shared-experiences/
-redirect_from: /
+permalink: /standards/shared-experiences/
 layout: default
 ---
 
