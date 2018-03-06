@@ -5,7 +5,7 @@ permalink: /standards/shared-experiences/
 archive: This document is archived but still relevant.
 layout: default
 footer: >
-  <p>
+  <p> @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
     <strong>Status:</strong> 
     Updated 22 January 2013 (first published January 2008)<br>
     Editors: Yeliz Yesilada (University of Manchester), Alan Chuter (Fundación ONCE), and Shawn Lawton Henry (W3C WAI). Developed by the Web Accessibility Initiative Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">WAI EOWG</a>) with the Mobile Web Best Practices Working Group (<a href="http://www.w3.org/2005/MWI/BPWG/">MWI BPWG</a>).
@@ -41,7 +41,7 @@ solutions for both. For more background, see:
 
 -   An introduction to the overlap between W3C guidelines for
     accessibility and best practices for mobile devices: [Web Content
-    Accessibility and Mobile Web: Making a Website Accessible Both for
+    Accessibility and Mobile Web: Making a Website Accessible Both for
     People with Disabilities and for Mobile
     Devices](http://www.w3.org/WAI/mobile/overlap)
 -   [Introduction to Web
@@ -129,18 +129,18 @@ color incorrectly or not at all.
 
 -   WCAG 2.0 success criteria: [1.4.1 Use of
     Color](http://www.w3.org/TR/WCAG20/#visual-audio-contrast-without-color),
--    [1.3.1 Info and
+-    [1.3.1 Info and
     Relationships](http://www.w3.org/TR/WCAG20/#content-structure-separation-programmatic),
--    [1.4.3 Contrast
+-    [1.4.3 Contrast
     (Minimum)](http://www.w3.org/TR/WCAG20/#visual-audio-contrast-contrast)
     and
--    [1.4.6 Contrast
+-    [1.4.6 Contrast
     (Enhanced)](http://www.w3.org/TR/WCAG20/#visual-audio-contrast7).
 
 -   WCAG 1.0 checkpoint:
     [2.1](http://www.w3.org/TR/WAI-WEBCONTENT/wai-pageauth.html#tech-color-convey)
     and
--    [2.2](http://www.w3.org/TR/WAI-WEBCONTENT/wai-pageauth.html#tech-color-contrast).
+-    [2.2](http://www.w3.org/TR/WAI-WEBCONTENT/wai-pageauth.html#tech-color-contrast).
 
 **Mobile Context:** Many screens have limited color palette and color
 difference is not presented. Device is used in poor lighting (for
@@ -148,7 +148,7 @@ example, outdoors), so colors are not clearly perceived.
 
 -   MWBP 1.0 Best Practice:
     [USE\_OF\_COLOR](http://www.w3.org/TR/mobile-bp/#USE_OF_COLOR) and
--    [COLOR\_CONTRAST](http://www.w3.org/TR/mobile-bp/#COLOR_CONTRAST).
+-    [COLOR\_CONTRAST](http://www.w3.org/TR/mobile-bp/#COLOR_CONTRAST).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -201,7 +201,7 @@ hear.
 -   WCAG 1.0 checkpoint:
     [1.1](http://www.w3.org/TR/WAI-WEBCONTENT-TECHS/#tech-text-equivalent)
     and
--    [1.4](http://www.w3.org/TR/WCAG10#tech-synchronize-equivalents).
+-    [1.4](http://www.w3.org/TR/WCAG10#tech-synchronize-equivalents).
 
 **Mobile Context:** Mobile users often turn off sound in public places
 (trains, hotel lobbies); or often cannot hear in noisy places (streets,
@@ -230,7 +230,7 @@ perceive content.
 -   WCAG 1.0 checkpoint:
     [1.1](http://www.w3.org/TR/WAI-WEBCONTENT-TECHS/#tech-text-equivalent)
     and
--    [1.4](http://www.w3.org/TR/WCAG10#tech-synchronize-equivalents).
+-    [1.4](http://www.w3.org/TR/WCAG10#tech-synchronize-equivalents).
 
 **Mobile Context:** Users often cannot hear in noisy (street, nightclub)
 or in public places (trains, hotel lobbies).
@@ -275,9 +275,9 @@ images meaningless.
 {% include box.html type="end" %}
 {:/}
 
-<div class="problem">
-
-### Text entry
+{::nomarkdown}
+{% include box.html type="start" title=" Text entry" id="# text-entry " class="large" h="3" %}
+{:/}
 
 User has difficulty entering text so text is entered incorrectly or
 mistakes are made.
@@ -295,9 +295,9 @@ hand.
 
 -   MWBP 1.0 Best Practice:
     [MINIMIZE\_KEYSTROKES](http://www.w3.org/TR/mobile-bp/#MINIMIZE_KEYSTROKES),
--    [PROVIDE\_DEFAULTS](http://www.w3.org/TR/mobile-bp/#PROVIDE_DEFAULTS)
+-    [PROVIDE\_DEFAULTS](http://www.w3.org/TR/mobile-bp/#PROVIDE_DEFAULTS)
     and
--    [DEFAULT\_INPUT\_MODE](http://www.w3.org/TR/mobile-bp/#DEFAULT_INPUT_MODE).
+-    [DEFAULT\_INPUT\_MODE](http://www.w3.org/TR/mobile-bp/#DEFAULT_INPUT_MODE).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -318,7 +318,7 @@ tree order.
 
 -   WCAG 1.0 checkpoint:
     [5.3](http://www.w3.org/TR/WCAG10#tech-avoid-table-for-layout) and
--    [5.4](http://www.w3.org/TR/WCAG10#tech-table-layout).
+-    [5.4](http://www.w3.org/TR/WCAG10#tech-table-layout).
 
 **Mobile Context:** Meaning of content can be changed because of
 reformatting or restructuring in adaptation process.
@@ -381,9 +381,9 @@ a mouse. Users who are blind also do not use the mouse.
 
 -   WCAG 1.0 checkpoint:
     [6.3](http://www.w3.org/TR/WCAG10#tech-scripts),
--    [6.4](http://www.w3.org/TR/WCAG10#tech-keyboard-operable-scripts),
--    [6.5](http://www.w3.org/TR/WCAG10#tech-fallback-page) and
--    [8.1](http://www.w3.org/TR/WCAG10#tech-directly-accessible).
+-    [6.4](http://www.w3.org/TR/WCAG10#tech-keyboard-operable-scripts),
+-    [6.5](http://www.w3.org/TR/WCAG10#tech-fallback-page) and
+-    [8.1](http://www.w3.org/TR/WCAG10#tech-directly-accessible).
 
 **Mobile Context:** Device has no mouse, only alphanumeric keypad or
 joystick.
@@ -415,14 +415,14 @@ support scripting.
     Accessibility-Supported Ways of Using
     Technologies](http://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html#cc4)
     and
--    [Conformance Requirement 5:
+-    [Conformance Requirement 5:
     Non-Interference](http://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html#cc5).
 
 -   WCAG 1.0 checkpoint:
     [6.3](http://www.w3.org/TR/WCAG10#tech-scripts),
--    [6.4](http://www.w3.org/TR/WCAG10#tech-keyboard-operable-scripts),
+-    [6.4](http://www.w3.org/TR/WCAG10#tech-keyboard-operable-scripts),
 -   [6.5](http://www.w3.org/TR/WCAG10#tech-fallback-page) and
--    [8.1](http://www.w3.org/TR/WCAG10#tech-directly-accessible).
+-    [8.1](http://www.w3.org/TR/WCAG10#tech-directly-accessible).
 
 **Mobile Context:** Scripting turned off or not supported.
 
@@ -449,7 +449,7 @@ input device.
 -   WCAG 2.0 Success Criteria: [2.1.1
     Keyboard](http://www.w3.org/TR/WCAG20/#keyboard-operation-keyboard-operable)
     and
--    [2.1.3 Keyboard (No
+-    [2.1.3 Keyboard (No
     Exception)](http://www.w3.org/TR/WCAG20/#keyboard-operation-all-funcs)
 
 -   WCAG 1.0 checkpoint:
@@ -535,7 +535,7 @@ a page without the context around them.
 -   WCAG 2.0 Success Criteria: [2.4.4 Link Purpose (In
     Context)](http://www.w3.org/TR/WCAG20/#navigation-mechanisms-refs)
     and
--    [2.4.4 Link Purpose (Link
+-    [2.4.4 Link Purpose (Link
     only)](http://www.w3.org/TR/WCAG20/#navigation-mechanisms-link).
 
 -   WCAG 1.0 checkpoint:
@@ -583,7 +583,7 @@ moving objects in field of vision).
 
 -   MWBP 1.0 Best Practice:
     [SUITABLE](http://www.w3.org/TR/mobile-bp/#SUITABLE) and
--    [CLARITY](http://www.w3.org/TR/mobile-bp/#CLARITY).
+-    [CLARITY](http://www.w3.org/TR/mobile-bp/#CLARITY).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -603,10 +603,10 @@ window is new.
 
 -   WCAG 2.0 Success Criteria: [3.1.2 On
     focus](http://www.w3.org/TR/WCAG20/#consistent-behavior-receive-focus),
--    [3.2.2 On
+-    [3.2.2 On
     input](http://www.w3.org/TR/WCAG20/#consistent-behavior-unpredictable-change)
     and
--    [3.2.5 Change on
+-    [3.2.5 Change on
     request](http://www.w3.org/TR/WCAG20/#consistent-behavior-no-extreme-changes-context).
 
 -   WCAG 1.0 checkpoint:
@@ -639,7 +639,7 @@ read or comprehend information.
 
 -   WCAG 1.0 checkpoint:
     [7.4](http://www.w3.org/TR/WCAG10#tech-no-periodic-refresh) and
--    [7.5](http://www.w3.org/TR/WCAG10#tech-no-auto-forward).
+-    [7.5](http://www.w3.org/TR/WCAG10#tech-no-auto-forward).
 
 **Mobile Context:** Reduced size of mobile viewport or poor ambient
 lighting makes it difficult to see content. Auto-refreshed pages may
@@ -678,8 +678,8 @@ handle markup.
 
 -   WCAG 1.0 checkpoint:
     [3.2](http://www.w3.org/TR/WCAG10#tech-identify-grammar),
--    [11.1](http://www.w3.org/TR/WCAG10#tech-latest-w3c-specs) and
--    [11.2](http://www.w3.org/TR/WCAG10#tech-avoid-deprecated).
+-    [11.1](http://www.w3.org/TR/WCAG10#tech-latest-w3c-specs) and
+-    [11.2](http://www.w3.org/TR/WCAG10#tech-avoid-deprecated).
 
 **Mobile Context:** Some older mobile browsers do not display content
 with invalid markup.
