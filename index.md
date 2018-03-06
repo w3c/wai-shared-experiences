@@ -5,11 +5,9 @@ permalink: /standards/shared-experiences/
 archive: This document is archived but still relevant.
 layout: default
 footer: >
-  <p> @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-    <strong>Status:</strong> 
-    Updated 22 January 2013 (first published January 2008)<br>
-    Editors: Yeliz Yesilada (University of Manchester), Alan Chuter (Fundación ONCE), and Shawn Lawton Henry (W3C WAI). Developed by the Web Accessibility Initiative Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">WAI EOWG</a>) with the Mobile Web Best Practices Working Group (<a href="http://www.w3.org/2005/MWI/BPWG/">MWI BPWG</a>).
-  </p>
+  <p><strong>Date: Archived.</strong>  Updated 22 January 2013. First published January 2008.</p>
+  <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/"></a>Yeliz Yesilada (University of Manchester), Alan Chuter (Fundación ONCE), and <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> (W3C WAI).</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) with the Mobile Web Best Practices Working Group (<a href="http://www.w3.org/2005/MWI/BPWG/">MWI BPWG</a>).</p>
 ---
 
 This page describes many of the barriers that people with disabilities
