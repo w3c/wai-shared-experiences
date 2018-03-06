@@ -10,20 +10,16 @@ footer: >
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) with the Mobile Web Best Practices Working Group (<a href="http://www.w3.org/2005/MWI/BPWG/">MWI BPWG</a>).</p>
 ---
 
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
+
 This page describes many of the barriers that people with disabilities
 and people using mobile devices experience when interacting with web
 content, including web applications. It shows how these **barriers are
 similarly addressed in [W3C](http://www.w3.org/)'s Web Content
 Accessibility Guidelines (WCAG), Mobile Web Best Practices, and Mobile
 Web Application Best Practices.**
-
-{::nomarkdown}
-{% include box.html type="start" title="This page was developed in 2008, and most of it is still relevant." class="simple" %}
-{:/}
-
-**For more recent information on *mobile accessibility* — that is,
-people with disabilities using content on mobile devices, see
-[www.w3.org/WAI/mobile/](https://www.w3.org/WAI/mobile/)**
 
 {::nomarkdown}
 {% include box.html type="end" %}
