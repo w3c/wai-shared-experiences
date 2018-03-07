@@ -2,6 +2,7 @@
 title: "Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities"
 title_html: "Shared Web Experiences:<br>Barriers Common to Mobile Device Users and People with Disabilities"
 permalink: /standards/shared-experiences/
+repository: w3c/wai-shared-experiences
 doc-note-type: archived
 doc-note-message: >
   <p><strong>If you want current information on <em>mobile accessibility</em> &mdash; that is, people with disabilities using content on mobile devices, see <a  href="https://www.w3.org/WAI/mobile/">https://www.w3.org/WAI/mobile/</a></strong></p>
@@ -137,11 +138,13 @@ color incorrectly or not at all.
     and
 -    [1.4.6 Contrast
     (Enhanced)](http://www.w3.org/TR/WCAG20/#visual-audio-contrast7).
+{:.inline}
 
 -   WCAG 1.0 checkpoint:
     [2.1](http://www.w3.org/TR/WAI-WEBCONTENT/wai-pageauth.html#tech-color-convey)
     and
 -    [2.2](http://www.w3.org/TR/WAI-WEBCONTENT/wai-pageauth.html#tech-color-contrast).
+{:.inline.wcag1}
 
 **Mobile Context:** Many screens have limited color palette and color
 difference is not presented. Device is used in poor lighting (for
@@ -149,7 +152,8 @@ example, outdoors), so colors are not clearly perceived.
 
 -   MWBP 1.0 Best Practice:
     [USE\_OF\_COLOR](http://www.w3.org/TR/mobile-bp/#USE_OF_COLOR) and
--    [COLOR\_CONTRAST](http://www.w3.org/TR/mobile-bp/#COLOR_CONTRAST).
+-   [COLOR\_CONTRAST](http://www.w3.org/TR/mobile-bp/#COLOR_CONTRAST).
+{:.inline}
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -169,15 +173,18 @@ screen magnifier gets only small part of page or image at a time.
 
 -   WCAG 2.0 Success Criteria: [1.4.8 Visual
     Presentation](http://www.w3.org/TR/WCAG20/#visual-audio-contrast-visual-presentation).
+{:.inline}
 
 -   WCAG 1.0 checkpoint:
     [12.3](http://www.w3.org/TR/WAI-WEBCONTENT/wai-pageauth.html#tech-group-information).
+{:.inline.wcag1}
 
 **Mobile Context:** Mobile device has small screen (viewport).
 
 -   MWBP 1.0 Best Practice:
-    [PAGE\_SIZE\_USABLE](http://www.w3.org/TR/mobile-bp/#PAGE_SIZE_USABLE)
-    and [SCROLLING](http://www.w3.org/TR/mobile-bp/#SCROLLING).
+    [PAGE\_SIZE\_USABLE](http://www.w3.org/TR/mobile-bp/#PAGE_SIZE_USABLE) and
+-   [SCROLLING](http://www.w3.org/TR/mobile-bp/#SCROLLING).
+{:.inline}
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -198,11 +205,13 @@ hear.
     (Live)](http://www.w3.org/TR/WCAG20/#media-equiv-real-time-captions)
     and [1.2.8 Media Alternative
     (Prerecorded)](http://www.w3.org/TR/WCAG20/#media-equiv-text-doc).
+{:.inline}
 
 -   WCAG 1.0 checkpoint:
     [1.1](http://www.w3.org/TR/WAI-WEBCONTENT-TECHS/#tech-text-equivalent)
     and
 -    [1.4](http://www.w3.org/TR/WCAG10#tech-synchronize-equivalents).
+{:.inline.wcag1}
 
 **Mobile Context:** Mobile users often turn off sound in public places
 (trains, hotel lobbies); or often cannot hear in noisy places (streets,
@@ -227,17 +236,20 @@ perceive content.
 
 -   WCAG 2.0 Success Criteria: [1.2.1 Audio-only and Video-only
     (Prerecorded)](http://www.w3.org/TR/WCAG20/#media-equiv-av-only-alt)
+{:.inline}
 
 -   WCAG 1.0 checkpoint:
     [1.1](http://www.w3.org/TR/WAI-WEBCONTENT-TECHS/#tech-text-equivalent)
     and
 -    [1.4](http://www.w3.org/TR/WCAG10#tech-synchronize-equivalents).
+{:.inline.wcag1}
 
 **Mobile Context:** Users often cannot hear in noisy (street, nightclub)
 or in public places (trains, hotel lobbies).
 
 -   MWBP 1.0 Best Practice:
     [NON\_TEXT\_ALTERNATIVES](http://www.w3.org/TR/mobile-bp/#NON-TEXT_ALTERNATIVES).
+{:.inline}
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -257,9 +269,11 @@ object.
 
 -   WCAG 2.0 Success Criteria: [1.1.1 Non-text
     content](http://www.w3.org/TR/WCAG20/#text-equiv-all).
+{:.inline}
 
 -   WCAG 1.0 checkpoint:
     [1.1](http://www.w3.org/TR/WAI-WEBCONTENT-TECHS/#tech-text-equivalent).
+{:.inline.wcag1}
 
 **Mobile Context:** User can be billed for download volume so images
 might be turned off to save costs. Some mobile user agents have limited
@@ -271,6 +285,7 @@ images meaningless.
     [NON\_TEXT\_ALTERNATIVES](http://www.w3.org/TR/mobile-bp/#NON-TEXT_ALTERNATIVES)
     and
     [OBJECTS\_OR\_SCRIPT](http://www.w3.org/TR/mobile-bp/#OBJECTS_OR_SCRIPT).
+{:.inline}
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -289,6 +304,7 @@ difficulty entering information.
 
 -   WCAG 2.0 Guideline: [3.3 Input Assistance: Help users avoid and
     correct mistakes](http://www.w3.org/TR/WCAG20/#minimize-error).
+{:.inline}
 
 **Mobile Context:** Device has small keypad which has limited
 functionality compared to a full keyboard, or is held in an unsteady
@@ -299,6 +315,7 @@ hand.
 -    [PROVIDE\_DEFAULTS](http://www.w3.org/TR/mobile-bp/#PROVIDE_DEFAULTS)
     and
 -    [DEFAULT\_INPUT\_MODE](http://www.w3.org/TR/mobile-bp/#DEFAULT_INPUT_MODE).
+{:.inline}
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -316,10 +333,12 @@ tree order.
 
 -   WCAG 2.0 Success Criteria: [1.3.2 Meaningful
     Sequence](http://www.w3.org/TR/WCAG20/#content-structure-separation-sequence).
+{:.inline}
 
 -   WCAG 1.0 checkpoint:
     [5.3](http://www.w3.org/TR/WCAG10#tech-avoid-table-for-layout) and
 -    [5.4](http://www.w3.org/TR/WCAG10#tech-table-layout).
+{:.inline.wcag1}
 
 **Mobile Context:** Meaning of content can be changed because of
 reformatting or restructuring in adaptation process.
@@ -328,6 +347,7 @@ reformatting or restructuring in adaptation process.
     [TABLES\_LAYOUT](http://www.w3.org/TR/mobile-bp/#TABLES_LAYOUT),
     [TABLES\_NESTED](http://www.w3.org/TR/mobile-bp/#TABLES_NESTED) and
     [TABLES\_ALTERNATIVES](http://www.w3.org/TR/mobile-bp/#TABLES_ALTERNATIVES).
+{:.inline}
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -345,9 +365,11 @@ formatting effects.
 
 -   WCAG 2.0 Success Criteria: [1.3.1 Info and
     relationship](http://www.w3.org/TR/WCAG20/#content-structure-separation-programmatic).
+{:.inline}
 
 -   WCAG 1.0 checkpoint:
     [6.1](http://www.w3.org/TR/WCAG10#tech-order-style-sheets).
+{:.inline.wcag1}
 
 **Mobile Context:** Often no or limited CSS support or diverging CSS
 support by mobile browser.
@@ -379,12 +401,14 @@ a mouse. Users who are blind also do not use the mouse.
 
 -   WCAG 2.0 Guideline: [2.1 Keyboard
     Accessible](http://www.w3.org/TR/WCAG20/#keyboard-operation).
+{:.inline}
 
 -   WCAG 1.0 checkpoint:
     [6.3](http://www.w3.org/TR/WCAG10#tech-scripts),
 -    [6.4](http://www.w3.org/TR/WCAG10#tech-keyboard-operable-scripts),
 -    [6.5](http://www.w3.org/TR/WCAG10#tech-fallback-page) and
 -    [8.1](http://www.w3.org/TR/WCAG10#tech-directly-accessible).
+{:.inline.wcag1}
 
 **Mobile Context:** Device has no mouse, only alphanumeric keypad or
 joystick.
@@ -395,9 +419,9 @@ joystick.
     [NAVBAR](http://www.w3.org/TR/mobile-bp/#NAVBAR),
     [BALANCE](http://www.w3.org/TR/mobile-bp/#BALANCE) and
     [ACCESS\_KEYS](http://www.w3.org/TR/mobile-bp/#ACCESS_KEYS).
-
 -   MWABP Best Practice: [3.5.3 Design for Multiple Interaction
     Methods](http://www.w3.org/TR/mwabp/#bp-presentation-interaction).
+{:.inline}
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -418,20 +442,22 @@ support scripting.
     and
 -    [Conformance Requirement 5:
     Non-Interference](http://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html#cc5).
+{:.inline}
 
 -   WCAG 1.0 checkpoint:
     [6.3](http://www.w3.org/TR/WCAG10#tech-scripts),
 -    [6.4](http://www.w3.org/TR/WCAG10#tech-keyboard-operable-scripts),
 -   [6.5](http://www.w3.org/TR/WCAG10#tech-fallback-page) and
 -    [8.1](http://www.w3.org/TR/WCAG10#tech-directly-accessible).
+{:.inline.wcag1}
 
 **Mobile Context:** Scripting turned off or not supported.
 
 -   MWBP 1.0 Best Practice:
     [OBJECTS\_OR\_SCRIPT](http://www.w3.org/TR/mobile-bp/#OBJECTS_OR_SCRIPT).
-
 -   MWABP Best Practice: [3.6.4 Support a non-JavaScript Variant if
     Appropriate](http://www.w3.org/TR/mwabp/#bp-devcap-scripting-support).
+{:.inline}
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -452,9 +478,11 @@ input device.
     and
 -    [2.1.3 Keyboard (No
     Exception)](http://www.w3.org/TR/WCAG20/#keyboard-operation-all-funcs)
+{:.inline}
 
 -   WCAG 1.0 checkpoint:
     [11.1](http://www.w3.org/TR/WCAG10#tech-latest-w3c-specs).
+{:.inline.wcag1}
 
 **Mobile Context:** Plugin turned off, or not installed, or not
 available; not compatible with input device (for example, requires
@@ -481,15 +509,18 @@ user cannot perceive the content.
 
 -   WCAG 2.0 Success Criteria: [2.4.2 Page
     titled](http://www.w3.org/TR/WCAG20/#navigation-mechanisms-title).
+{:.inline}
 
 -   WCAG 1.0 checkpoint:
     [13.2](http://www.w3.org/TR/WCAG10#tech-use-metadata).
+{:.inline.wcag1}
 
 **Mobile Context:** Page title truncated to fit narrow viewport of
 mobile device.
 
 -   MWBP 1.0 Best Practice:
     [PAGE\_TITLE](http://www.w3.org/TR/mobile-bp/#PAGE_TITLE).
+{:.inline}
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -508,9 +539,11 @@ move from one element to another.
 
 -   WCAG 2.0 Success Criteria: [2.4.3 Focus
     order](http://www.w3.org/TR/WCAG20/#navigation-mechanisms-focus-order).
+{:.inline}
 
 -   WCAG 1.0 checkpoint:
     [9.4](http://www.w3.org/TR/WCAG10#tech-tab-order).
+{:.inline.wcag1}
 
 **Mobile Context:** Mobile devices may not have a pointing device so the
 user may have to navigate elements serially.
@@ -538,9 +571,11 @@ a page without the context around them.
     and
 -    [2.4.4 Link Purpose (Link
     only)](http://www.w3.org/TR/WCAG20/#navigation-mechanisms-link).
+{:.inline}
 
 -   WCAG 1.0 checkpoint:
     [13.1](http://www.w3.org/TR/WCAG10#tech-meaningful-links).
+{:.inline.wcag1}
 
 **Mobile Context:** User can not determine purpose of link.
 
@@ -548,6 +583,7 @@ a page without the context around them.
     [LINK\_TARGET\_ID](http://www.w3.org/TR/mobile-bp/#LINK_TARGET_ID)
     and
     [LINK\_TARGET\_FORMAT](http://www.w3.org/TR/mobile-bp/#LINK_TARGET_FORMAT).
+{:.inline}
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -574,9 +610,11 @@ written language.
 
 -   WCAG 2.0 Success Criteria: [3.1.5 Reading
     level](http://www.w3.org/TR/WCAG20/#meaning-supplements).
+{:.inline}
 
 -   WCAG 1.0 checkpoint:
     [14.1](http://www.w3.org/TR/WCAG10#tech-simple-and-straightforward).
+{:.inline.wcag1}
 
 **Mobile Context:** Text is displayed in small font, and user is often
 distracted by ambient conditions (background noise, conversations,
@@ -609,9 +647,11 @@ window is new.
     and
 -    [3.2.5 Change on
     request](http://www.w3.org/TR/WCAG20/#consistent-behavior-no-extreme-changes-context).
+{:.inline}
 
 -   WCAG 1.0 checkpoint:
     [10.1](http://www.w3.org/TR/WCAG10#tech-avoid-pop-ups).
+{:.inline.wcag1}
 
 **Mobile Context:** Single window interface. Multiple stacked windows on
 small screen hide each other.
@@ -637,10 +677,12 @@ read or comprehend information.
     Hide](http://www.w3.org/TR/WCAG20/#time-limits-pause) and [3.2.5
     Change on
     request](http://www.w3.org/TR/WCAG20/#consistent-behavior-no-extreme-changes-context).
+{:.inline}
 
 -   WCAG 1.0 checkpoint:
     [7.4](http://www.w3.org/TR/WCAG10#tech-no-periodic-refresh) and
--    [7.5](http://www.w3.org/TR/WCAG10#tech-no-auto-forward).
+-   [7.5](http://www.w3.org/TR/WCAG10#tech-no-auto-forward).
+{:.inline.wcag1}
 
 **Mobile Context:** Reduced size of mobile viewport or poor ambient
 lighting makes it difficult to see content. Auto-refreshed pages may
@@ -676,17 +718,20 @@ handle markup.
 
 -   WCAG 2.0 Success Criteria: [4.1.1
     Parsing](http://www.w3.org/TR/WCAG20/#ensure-compat-parses).
+{:.inline}
 
 -   WCAG 1.0 checkpoint:
     [3.2](http://www.w3.org/TR/WCAG10#tech-identify-grammar),
 -    [11.1](http://www.w3.org/TR/WCAG10#tech-latest-w3c-specs) and
 -    [11.2](http://www.w3.org/TR/WCAG10#tech-avoid-deprecated).
+{:.inline.wcag1}
 
 **Mobile Context:** Some older mobile browsers do not display content
 with invalid markup.
 
 -   MWBP 1.0 Best Practice:
     [VALID\_MARKUP](http://www.w3.org/TR/mobile-bp/#VALID_MARKUP).
+{:.inline}
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -704,15 +749,27 @@ support scripting.
 
 -   WCAG 2.0 Success Criteria: [Understanding Guideline
     4.1](http://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat.html)
+{:.inline}
 
 -   WCAG 1.0 checkpoint:
     [6.3](http://www.w3.org/TR/WCAG10#tech-scripts).
+{:.inline.wcag1}
 
 **Mobile Context:** Scripting turned off or not supported.
 
 -   MWBP 1.0 Best Practice:
     [OBJECTS\_OR\_SCRIPT](http://www.w3.org/TR/mobile-bp/#OBJECTS_OR_SCRIPT).
+{:.inline}
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
+
+<style>
+    .inline li {
+        display: inline;
+    }
+    .wcag1, .wcag1 * {
+        color: #767676;
+    }
+</style>
