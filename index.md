@@ -2,7 +2,14 @@
 title: "Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities"
 title_html: "Shared Web Experiences:<br>Barriers Common to Mobile Device Users and People with Disabilities"
 permalink: /standards/shared-experiences/
-archive: This document is archived but still relevant.
+doc-note-type: archived
+doc-note-message: >
+  <p><strong>If you want current information on <em>mobile accessibility</em> &mdash; that is, people with disabilities using content on mobile devices, see <a  href="https://www.w3.org/WAI/mobile/">https://www.w3.org/WAI/mobile/</a></strong></p>
+  <p>This page is archived. We do not plan to update it. It was developed in 2008. Much of the information is still relevant today. It is useful for understanding that:</p>
+  <ul>
+    <li>Many of the issues around designing for mobile devices are addressed by designing for people with disabilities.</li>
+    <li>When you address accessibility, you improve the mobile experience. This can help in presenting your business case for accessibility.</li>
+  </ul>
 layout: default
 footer: >
   <p><strong>Date: Archived.</strong>  Updated 22 January 2013. First published January 2008.</p>
