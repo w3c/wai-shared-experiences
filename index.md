@@ -119,7 +119,7 @@ Experiences discussed below are also available in [tabular
 format](experiences-table.html#perceivable_section).
 
 {::nomarkdown}
-{% include box.html type="start" title="Information conveyed solely with color" id="#color" class="large" h="3" %}
+{% include box.html type="start" title="Information conveyed solely with color" id="color" class="large" h="3" %}
 {:/}
 
 User perceives color incorrectly or not at all, and so misses or
@@ -156,7 +156,7 @@ example, outdoors), so colors are not clearly perceived.
 {:/}
 
 {::nomarkdown}
-{% include box.html type="start" title="Large pages or large images" id="#image" class="large" h="3" %}
+{% include box.html type="start" title="Large pages or large images" id="image" class="large" h="3" %}
 {:/}
 
 User only sees small areas at a time, is unable to relate different
@@ -184,7 +184,7 @@ screen magnifier gets only small part of page or image at a time.
 {:/}
 
 {::nomarkdown}
-{% include box.html type="start" title="Multimedia with no captions" id="#multimedia" class="large" h="3" %}
+{% include box.html type="start" title="Multimedia with no captions" id="multimedia" class="large" h="3" %}
 {:/}
 
 User misses auditory information.
@@ -216,7 +216,7 @@ nightclubs).
 {:/}
 
 {::nomarkdown}
-{% include box.html type="start" title="Audio-only prompts (beeps) for important information (warnings, errors)" id="#prompts" class="large" h="3" %}
+{% include box.html type="start" title="Audio-only prompts (beeps) for important information (warnings, errors)" id="prompts" class="large" h="3" %}
 {:/}
 
 User cannot operate or interact correctly with content, misses prompts,
@@ -244,7 +244,7 @@ or in public places (trains, hotel lobbies).
 {:/}
 
 {::nomarkdown}
-{% include box.html type="start" title="Non-text objects (images, sound, video) with no text alternative" id="#non-text" class="large" h="3" %}
+{% include box.html type="start" title="Non-text objects (images, sound, video) with no text alternative" id="non-text" class="large" h="3" %}
 {:/}
 
 User cannot perceive important information or loses information due to
@@ -277,7 +277,7 @@ images meaningless.
 {:/}
 
 {::nomarkdown}
-{% include box.html type="start" title=" Text entry" id="# text-entry " class="large" h="3" %}
+{% include box.html type="start" title=" Text entry" id=" text-entry " class="large" h="3" %}
 {:/}
 
 User has difficulty entering text so text is entered incorrectly or
@@ -305,7 +305,7 @@ hand.
 {:/}
 
 {::nomarkdown}
-{% include box.html type="start" title="Content formatted using tables or CSS, and reading order not correct when linearized (for example when CSS or tables not rendered)" id="#table" class="large" h="3" %}
+{% include box.html type="start" title="Content formatted using tables or CSS, and reading order not correct when linearized (for example when CSS or tables not rendered)" id="table" class="large" h="3" %}
 {:/}
 
 User cannot understand the content correctly when it's presented in a
@@ -334,7 +334,7 @@ reformatting or restructuring in adaptation process.
 {:/}
 
 {::nomarkdown}
-{% include box.html type="start" title="Information conveyed only using CSS (visual formatting)" id="#visual-formatting" class="large" h="3" %}
+{% include box.html type="start" title="Information conveyed only using CSS (visual formatting)" id="visual-formatting" class="large" h="3" %}
 {:/}
 
 User is unable to access information encoded in visual formatting or in
@@ -368,7 +368,7 @@ Experiences discussed below are also available in [tabular
 format](experiences-table.html#operable_section).
 
 {::nomarkdown}
-{% include box.html type="start" title="Mouse required for interaction and navigation" id="#mouse" class="large" h="3" %}
+{% include box.html type="start" title="Mouse required for interaction and navigation" id="mouse" class="large" h="3" %}
 {:/}
 
 User is unable to navigate all content, or wastes time moving through
@@ -404,7 +404,7 @@ joystick.
 {:/}
 
 {::nomarkdown}
-{% include box.html type="start" title="Scripting required to operate content" id="#script" class="large" h="3" %}
+{% include box.html type="start" title="Scripting required to operate content" id="script" class="large" h="3" %}
 {:/}
 
 User cannot operate the content so loses some information.
@@ -438,7 +438,7 @@ support scripting.
 {:/}
 
 {::nomarkdown}
-{% include box.html type="start" title="Special plugin required" id="#plugin" class="large" h="3" %}
+{% include box.html type="start" title="Special plugin required" id="plugin" class="large" h="3" %}
 {:/}
 
 User can not perceive content or can not operate interface.
@@ -468,7 +468,7 @@ mouse).
 {:/}
 
 {::nomarkdown}
-{% include box.html type="start" title="Missing or inappropriate page title" id="#title" class="large" h="3" %}
+{% include box.html type="start" title="Missing or inappropriate page title" id="title" class="large" h="3" %}
 {:/}
 
 User cannot easily scan to get an overview because of missing,
@@ -496,7 +496,7 @@ mobile device.
 {:/}
 
 {::nomarkdown}
-{% include box.html type="start" title="Inconsistency between focus (tab) order and logical document content sequence" id="#tab" class="large" h="3" %}
+{% include box.html type="start" title="Inconsistency between focus (tab) order and logical document content sequence" id="tab" class="large" h="3" %}
 {:/}
 
 User is unable to navigate content in logical sequence, becomes
@@ -523,7 +523,7 @@ user may have to navigate elements serially.
 {:/}
 
 {::nomarkdown}
-{% include box.html type="start" title="Non descriptive link label" id="#link-label" class="large" h="3" %}
+{% include box.html type="start" title="Non descriptive link label" id="link-label" class="large" h="3" %}
 {:/}
 
 User cannot determine to follow or not to follow a link because the link
@@ -562,7 +562,7 @@ Experiences discussed below are also available in [tabular
 format](experiences-table.html#understandable_section).
 
 {::nomarkdown}
-{% include box.html type="start" title="Long words, long and complex sentences, jargon" id="#complex" class="large" h="3" %}
+{% include box.html type="start" title="Long words, long and complex sentences, jargon" id="complex" class="large" h="3" %}
 {:/}
 
 User has difficulty understanding information.
@@ -591,7 +591,7 @@ moving objects in field of vision).
 {:/}
 
 {::nomarkdown}
-{% include box.html type="start" title="Content spawning new windows without warning user" id="#popups" class="large" h="3" %}
+{% include box.html type="start" title="Content spawning new windows without warning user" id="popups" class="large" h="3" %}
 {:/}
 
 User becomes disoriented among windows; back button doesn't work. User
@@ -624,7 +624,7 @@ small screen hide each other.
 {:/}
 
 {::nomarkdown}
-{% include box.html type="start" title="Blinking, moving, scrolling or auto-updating content" id="#dynamic" class="large" h="3" %}
+{% include box.html type="start" title="Blinking, moving, scrolling or auto-updating content" id="dynamic" class="large" h="3" %}
 {:/}
 
 User has difficulty reading and comprehending content.
@@ -665,7 +665,7 @@ Experiences discussed below are also available in [tabular
 format](experiences-table.html#robust_section).
 
 {::nomarkdown}
-{% include box.html type="start" title="Invalid or unsupported markup" id="#markup" class="large" h="3" %}
+{% include box.html type="start" title="Invalid or unsupported markup" id="markup" class="large" h="3" %}
 {:/}
 
 User cannot access the content because browser or adaptation system
@@ -693,7 +693,7 @@ with invalid markup.
 {:/}
 
 {::nomarkdown}
-{% include box.html type="start" title="Scripting required to generate content" id="#script-generate" class="large" h="3" %}
+{% include box.html type="start" title="Scripting required to generate content" id="script-generate" class="large" h="3" %}
 {:/}
 
 User cannot access the content so loses some information because
