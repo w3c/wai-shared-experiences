@@ -72,7 +72,7 @@ This page includes links to some relevant solutions in:
     2.0](http://www.w3.org/TR/WCAG20/)
 -   [Web Content Accessibility Guidelines (WCAG)
     1.0](http://www.w3.org/TR/WCAG10/) ***Note:* [W3C WAI recommends
-    using WCAG 2.0](http://www.w3.org/WAI/intro/wcag#version), instead
+    using WCAG 2.0]({{ "/standards-guidelines/wcag/" | relative_url }}#version), instead
     of WCAG 1.0.**
 -   [Mobile Web Best Practices 1.0](http://www.w3.org/TR/mobile-bp/)
 -   [Mobile Web Application Best Practices](http://www.w3.org/TR/mwabp/)
