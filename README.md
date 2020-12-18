@@ -1,6 +1,1 @@
-# wai-shared-experiences
-
-Current Preview:
-
-https://w3c.github.io/wai-shared-experiences/standards-guidelines/shared-experiences/
-
+#[![Netlify Status](https://api.netlify.com/api/v1/badges/35078893-958b-4900-a22c-39adf00a61c7/deploy-status)](https://app.netlify.com/sites/serene-sammet-b59c0f/deploys)
