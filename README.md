@@ -1,1 +1,4 @@
-#[![Netlify Status](https://api.netlify.com/api/v1/badges/35078893-958b-4900-a22c-39adf00a61c7/deploy-status)](https://app.netlify.com/sites/serene-sammet-b59c0f/deploys)
+> [!IMPORTANT]
+> This repository has been archived 18 April 2024.
+>
+> [Shared Web Experiences](https://www.w3.org/WAI/standards-guidelines/shared-experiences/) is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
